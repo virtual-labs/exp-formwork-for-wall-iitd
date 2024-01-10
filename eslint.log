@@ -1,0 +1,110 @@
+
+/home/runner/work/exp-formwork-for-wall-iitd/exp-formwork-for-wall-iitd/experiment/simulation/js/layout.js
+   9:10  warning  'nextDrawerItem' is defined but never used  no-unused-vars
+  20:10  warning  'backDrawerItem' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-formwork-for-wall-iitd/exp-formwork-for-wall-iitd/experiment/simulation/js/main.js
+   189:7   warning  'ChartGraph' is assigned a value but never used                no-unused-vars
+   193:6   warning  'Graph1' is not defined                                        no-undef
+   197:6   warning  'Graph2' is not defined                                        no-undef
+   201:6   warning  'Graph3' is not defined                                        no-undef
+   205:6   warning  'Graph4' is not defined                                        no-undef
+   221:23  warning  'Chart' is not defined                                         no-undef
+   255:5   warning  'isPerformNext' is assigned a value but never used             no-unused-vars
+   280:7   warning  'opacity' is assigned a value but never used                   no-unused-vars
+   286:7   warning  'hideAll' is assigned a value but never used                   no-unused-vars
+   286:28  warning  'disp' is assigned a value but never used                      no-unused-vars
+   292:7   warning  'showAll' is assigned a value but never used                   no-unused-vars
+   292:28  warning  'disp' is assigned a value but never used                      no-unused-vars
+   299:7   warning  'set' is assigned a value but never used                       no-unused-vars
+   332:29  warning  'speed' is assigned a value but never used                     no-unused-vars
+   339:15  warning  'Typed' is not defined                                         no-undef
+   360:19  warning  'src' is not defined                                           no-undef
+   492:17  warning  'anime' is not defined                                         no-undef
+   646:10  warning  'cursorPointer' is defined but never used                      no-unused-vars
+   845:10  warning  'i' is not defined                                             no-undef
+   846:18  warning  'i' is not defined                                             no-undef
+   848:10  warning  'i' is not defined                                             no-undef
+   849:11  warning  'i' is not defined                                             no-undef
+   849:28  warning  'i' is not defined                                             no-undef
+   849:48  warning  'i' is not defined                                             no-undef
+   852:25  warning  'i' is not defined                                             no-undef
+   876:6   warning  'intro' is not defined                                         no-undef
+   904:18  warning  'anime' is not defined                                         no-undef
+   926:15  warning  'intru' is not defined                                         no-undef
+   926:27  warning  'Typed' is not defined                                         no-undef
+   944:16  warning  'intru' is not defined                                         no-undef
+   960:6   warning  'objective' is not defined                                     no-undef
+   976:5   warning  'anime' is not defined                                         no-undef
+   988:6   warning  'step1' is not defined                                         no-undef
+  1027:9   warning  'anime' is not defined                                         no-undef
+  1123:6   warning  'step2' is not defined                                         no-undef
+  1171:13  warning  'anime' is not defined                                         no-undef
+  1188:15  warning  'anime' is not defined                                         no-undef
+  1211:13  warning  'anime' is not defined                                         no-undef
+  1253:17  warning  'anime' is not defined                                         no-undef
+  1312:6   warning  'step3' is not defined                                         no-undef
+  1332:27  warning  'anime' is not defined                                         no-undef
+  1377:13  warning  'anime' is not defined                                         no-undef
+  1399:13  warning  'anime' is not defined                                         no-undef
+  1510:6   warning  'step4' is not defined                                         no-undef
+  1579:7   warning  'anime' is not defined                                         no-undef
+  1643:9   warning  'anime' is not defined                                         no-undef
+  1663:9   warning  'anime' is not defined                                         no-undef
+  1688:11  warning  'anime' is not defined                                         no-undef
+  1711:13  warning  'anime' is not defined                                         no-undef
+  1749:6   warning  'step5' is not defined                                         no-undef
+  1791:9   warning  'anime' is not defined                                         no-undef
+  1848:13  warning  'anime' is not defined                                         no-undef
+  1872:13  warning  'anime' is not defined                                         no-undef
+  1886:13  warning  'anime' is not defined                                         no-undef
+  1932:6   warning  'step6' is not defined                                         no-undef
+  1984:11  warning  'anime' is not defined                                         no-undef
+  1999:13  warning  'anime' is not defined                                         no-undef
+  2010:13  warning  'anime' is not defined                                         no-undef
+  2022:13  warning  'anime' is not defined                                         no-undef
+  2033:13  warning  'anime' is not defined                                         no-undef
+  2045:13  warning  'anime' is not defined                                         no-undef
+  2065:11  warning  'anime' is not defined                                         no-undef
+  2106:11  warning  'anime' is not defined                                         no-undef
+  2143:13  warning  'anime' is not defined                                         no-undef
+  2185:7   warning  'anime' is not defined                                         no-undef
+  2213:6   warning  'step7' is not defined                                         no-undef
+  2251:27  warning  'anime' is not defined                                         no-undef
+  2279:13  warning  'anime' is not defined                                         no-undef
+  2308:13  warning  'anime' is not defined                                         no-undef
+  2586:6   warning  'step8' is not defined                                         no-undef
+  2658:11  warning  'beforeAfterRotationAnime' is assigned a value but never used  no-unused-vars
+  2659:7   warning  'anime' is not defined                                         no-undef
+  2705:9   warning  'anime' is not defined                                         no-undef
+  2725:9   warning  'anime' is not defined                                         no-undef
+  2750:11  warning  'anime' is not defined                                         no-undef
+  2776:13  warning  'anime' is not defined                                         no-undef
+  2818:6   warning  'step9' is not defined                                         no-undef
+  2874:9   warning  'anime' is not defined                                         no-undef
+  2932:17  warning  'anime' is not defined                                         no-undef
+  2955:17  warning  'anime' is not defined                                         no-undef
+  2984:17  warning  'anime' is not defined                                         no-undef
+  2998:19  warning  'anime' is not defined                                         no-undef
+  3018:15  warning  'anime' is not defined                                         no-undef
+  3041:15  warning  'anime' is not defined                                         no-undef
+  3091:6   warning  'step10' is not defined                                        no-undef
+  3129:17  warning  'anime' is not defined                                         no-undef
+  3148:15  warning  'anime' is not defined                                         no-undef
+  3166:15  warning  'anime' is not defined                                         no-undef
+  3432:6   warning  'completed' is not defined                                     no-undef
+  3469:7   warning  'backDrawerItem' is not defined                                no-undef
+  3470:7   warning  'backProgressBar' is not defined                               no-undef
+  3480:9   warning  'nextDrawerItem' is not defined                                no-undef
+  3481:9   warning  'nextProgressBar' is not defined                               no-undef
+  3484:12  warning  Empty block statement                                          no-empty
+  3535:10  warning  'getCursor' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-formwork-for-wall-iitd/exp-formwork-for-wall-iitd/experiment/simulation/js/progressBar.js
+   2:7  warning  'prevBtns' is assigned a value but never used         no-unused-vars
+   3:7  warning  'nextBtns' is assigned a value but never used         no-unused-vars
+  12:7  warning  'nextProgressBar' is assigned a value but never used  no-unused-vars
+  19:7  warning  'backProgressBar' is assigned a value but never used  no-unused-vars
+
+✖ 101 problems (0 errors, 101 warnings)
+
