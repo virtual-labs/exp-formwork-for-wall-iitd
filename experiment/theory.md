@@ -18,7 +18,7 @@ Formwork for a wall is a temporary mold used to shape and support the wet concre
 -	<b>Head Adapter and Foot Adapter:</b> Connectors that secure the CT props to the formwork and the ground.<br>
 </div>
 
-<div style="float: left; width:100%;"><br>
+<div style="float: left; width:100%;">
 
 #### 2. Procedure:<br>
 Here's a general overview of the steps involved in setting up formwork for a wall:<br>
