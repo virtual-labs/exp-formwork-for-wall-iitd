@@ -187,7 +187,7 @@ Figure 5.4(b) Stripping of Wall Formwork.
     </td>
   </tr>
   <tr>
-<td colspan="2" style="width:50%; text-align:center">
+<td colspan="2" style="width:50%; text-align:center; background-color: #FFF;">
 <center>
 <img src="images/th3.png" height="325px">
 <br><br>
